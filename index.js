@@ -26,6 +26,7 @@ class BoardMember {
 }
 
 class Ceo extends BoardMember {
+  constructor() {}
   hireEmployee() {
     return "Welcome aboard"
   }
